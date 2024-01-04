@@ -85,6 +85,9 @@ code {
   color: #65A2D6;
 }
 
+.navbar-inverse .navbar-brand {
+  padding: 0 15px;
+}
 .navbar-inverse .navbar-brand,
 .navbar-inverse .navbar-nav>li>a {
   color: #313437;
