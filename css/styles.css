@@ -1,4 +1,5 @@
 /* Concatenates the stylesheet files */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
 /**
  * Base Hexo and Theme styles
  *
@@ -485,7 +486,7 @@
  *
  * Bootstrap and Hexo markdown style overrides would typically happen here.
  */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
 /* Globals */
 
 body {
