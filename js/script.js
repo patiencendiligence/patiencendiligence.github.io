@@ -81,5 +81,5 @@
   if ($.fancybox){
     $('.image-link').fancybox();
   }
-
+ 
 })(jQuery);
